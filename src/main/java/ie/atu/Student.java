@@ -8,5 +8,9 @@ public class Student {
         Scanner input = new Scanner(System.in);
         String name = input.nextLine();
         System.out.println("you entered : " + name);
+
+        System.out.println("Please enter email:  ");
+        String email = input.nextLine();
+        System.out.println("you entered : " + email);
     }
 }
