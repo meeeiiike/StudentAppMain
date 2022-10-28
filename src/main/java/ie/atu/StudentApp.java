@@ -2,7 +2,7 @@ package ie.atu;
 
 import java.util.Scanner;
 
-public class Student {
+public class StudentApp {
     public static void main(String[] args) {
         System.out.println("Please enter name:  \n");
         Scanner input = new Scanner(System.in);
